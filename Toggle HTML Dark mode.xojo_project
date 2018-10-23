@@ -35,6 +35,7 @@ DefaultEncoding=&h0
 AppIcon=Toggle HTML Dark mode.xojo_resources;&h0
 OSXBundleID=com.jeremieleroy.myapp
 DebuggerCommandLine=
+DebuggerDestination=Macintosh HD:Users:jleroy:Desktop:TEMP:
 UseGDIPlus=False
 UseBuildsFolder=True
 HiDPI=True
