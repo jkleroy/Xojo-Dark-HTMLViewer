@@ -9,3 +9,30 @@ A Xojo desktop HTMLViewer subclass with a dark mode function.
 
 Light mode
 [[https://github.com/jkleroy/Xojo-Dark-HTMLViewer/blob/master/img/light.png|alt=light]]
+
+Dark mode
+[[https://github.com/jkleroy/Xojo-Dark-HTMLViewer/blob/master/img/dark.png|alt=light]]
+
+
+## Functions
+
+* ChangeAppearance
+Automatically changes the appearance to Light or Dark mode on macOS 10.14 (Mojave).
+Call this function in the Dark_HTMLViewer.DocumentComplete event.
+
+* ChangeAppearanceToDark
+Changes the appearance to Dark content.
+
+* ChangeAppearanceToLight
+Changes the appearance to Light content.
+
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+## Acknowledgments
+
+* Daniel Jalkut from [Indiestack.com](https://indiestack.com/2018/10/supporting-dark-mode-in-app-web-content/)
+
