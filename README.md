@@ -7,11 +7,11 @@ A Xojo desktop HTMLViewer subclass with a dark mode function.
 
 ## Screenshots
 
-Light mode
-[[https://github.com/jkleroy/Xojo-Dark-HTMLViewer/blob/master/img/light.png|alt=light]]
+Comparison of displays
 
-Dark mode
-[[https://github.com/jkleroy/Xojo-Dark-HTMLViewer/blob/master/img/dark.png|alt=light]]
+<img src="https://github.com/jkleroy/Xojo-Dark-HTMLViewer/blob/master/img/light.png" width="400" alt="Light mode"> <img src="https://github.com/jkleroy/Xojo-Dark-HTMLViewer/blob/master/img/dark.png" width="400" alt="Dark mode">
+
+
 
 
 ## Functions
