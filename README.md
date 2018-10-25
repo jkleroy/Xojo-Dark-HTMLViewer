@@ -7,24 +7,27 @@ A Xojo desktop HTMLViewer subclass with a dark mode function.
 
 ## Screenshots
 
-Light mode
-[[https://github.com/jkleroy/Xojo-Dark-HTMLViewer/blob/master/img/light.png|alt=light]]
+Comparison of displays
 
-Dark mode
-[[https://github.com/jkleroy/Xojo-Dark-HTMLViewer/blob/master/img/dark.png|alt=light]]
+<img src="https://github.com/jkleroy/Xojo-Dark-HTMLViewer/blob/master/img/light.png" width="400" alt="Light mode"> <img src="https://github.com/jkleroy/Xojo-Dark-HTMLViewer/blob/master/img/dark.png" width="400" alt="Dark mode">
+
+
 
 
 ## Functions
 
-* ChangeAppearance
+    ChangeAppearance
+
 Automatically changes the appearance to Light or Dark mode on macOS 10.14 (Mojave).
 Call this function in the Dark_HTMLViewer.DocumentComplete event.
 
-* ChangeAppearanceToDark
+    ChangeAppearanceToDark
+
 Changes the appearance to Dark content.
 Call this function in the Dark_HTMLViewer.DocumentComplete event or after the page is loaded.
 
-* ChangeAppearanceToLight
+    ChangeAppearanceToLight
+
 Changes the appearance to Light content.
 Call this function in the Dark_HTMLViewer.DocumentComplete event or after the page is loaded.
 
