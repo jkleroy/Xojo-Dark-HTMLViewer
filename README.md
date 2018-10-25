@@ -18,20 +18,17 @@ Comparison of displays
 
     ChangeAppearance
 
-Automatically changes the appearance to Light or Dark mode on macOS 10.14 (Mojave).
-
+Automatically changes the appearance to Light or Dark mode on macOS 10.14 (Mojave).  
 Call this function in the Dark_HTMLViewer.DocumentComplete event.
 
     ChangeAppearanceToDark
 
-Changes the appearance to Dark content.
-
+Changes the appearance to Dark content.  
 Call this function in the Dark_HTMLViewer.DocumentComplete event or after the page is loaded.
 
     ChangeAppearanceToLight
 
-Changes the appearance to Light content.
-
+Changes the appearance to Light content.  
 Call this function in the Dark_HTMLViewer.DocumentComplete event or after the page is loaded.
 
 
